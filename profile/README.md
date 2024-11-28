@@ -1,4 +1,4 @@
-# P'tits Créateurs
+# Loomeria
 
 Les Petits Créateurs est une marketplace en ligne innovante dédiée exclusivement aux petits créateurs de mode. Notre mission est de donner de la visibilité aux boutiques locales, artisans et créateurs indépendants qui peinent à se faire connaître dans un marché dominé par les grandes marques et les plateformes généralistes.
 
